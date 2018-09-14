@@ -44,7 +44,7 @@ h1 {
 }
  a img:hover {
   transition: background-color 0.5s ease;
-  background-color: red;
+  background-color: black;
   border: 3px solid #6F7F7A;
 }
  .footer {
