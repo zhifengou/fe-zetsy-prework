@@ -34,13 +34,13 @@ h1 {
   font-weight: 500;
 }
  #necklace {
-  border: 5px solid #98ADA6;
+  border: 3px solid #98ADA6;
 }
  a img {
-  border: 5px solid #CCC;
+  border: 3px solid #CCC;
 }
  a img:hover {
-  border: 5px solid #6F7F7A;
+  border: 3px solid #6F7F7A;
 }
  .footer {
   text-align: right;
